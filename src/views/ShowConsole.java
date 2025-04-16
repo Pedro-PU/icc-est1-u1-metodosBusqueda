@@ -21,7 +21,7 @@ public class ShowConsole {
         System.out.println(message);
     }
 
-
+/*
     public void metodoBusqueda1(){
         int [] arreglo={2,3,4,9,8,6,15,78,89};
         System.out.println("Ingrese el valor a buscar: ");
@@ -34,5 +34,5 @@ public class ShowConsole {
         } else {
             System.out.println("El valor " + valor + " no se encontró en el arreglo.");
         }
-    }
+    } */
 }
